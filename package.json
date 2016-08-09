@@ -34,7 +34,7 @@
   },
   "homepage": "https://github.com/Comandeer/rollup-plugin-mockr#readme",
   "devDependencies": {
-    "babel-preset-es2015-rollup": "^1.1.1",
+    "babel-preset-es2015-rollup": "^1.2.0",
     "chai": "^3.5.0",
     "eslint": "^3.0.1",
     "in-publish": "^2.0.0",
